@@ -1,6 +1,6 @@
 # Bem-Vindos ao meu GitHub! :star:
 
-:alien: Me chamo, Aline!  
+:alien: Eu me chamo, Aline!  
 :wrench: Técnica em Manutenção e Suporte ao Computador - UFRN  
 :mortar_board: Licenciada em Computação - UFERSA  
 :milky_way: Sou uma observadora do Universo que está em eterno aprendizado  
